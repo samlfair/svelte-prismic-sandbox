@@ -23,5 +23,5 @@
     "start:dev": "sirv public --dev"
   },
   "keywords": [],
-  "description": ""
+  "description": "A web development tutorial using Svelte and Prismic."
 }
