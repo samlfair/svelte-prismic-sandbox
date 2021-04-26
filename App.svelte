@@ -54,7 +54,7 @@
     {:catch error}
     <h1>{error}</h1>
     {/await}
-    <p>Once it's done loading, you'll see the raw JSON of your query, here:</p>
+    <p>Once it is done loading, you'll see the raw JSON of your query, here:</p>
     {#await response}
     <p>Loading...</p>
     {:then response}
